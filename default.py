@@ -200,10 +200,10 @@ def UpdateMe_local_update():
 def getSources():
         atalizacao()
         try:
-            addDir('[COLOR yellow][B]CONTEUDO ADULTO[/COLOR][/B]','',200,'https://i.imgur.com/VPXwj20.jpg',FANART,'','','','')
-            addDir('[COLOR yellow][B]ANIMES & DESENHOS[/COLOR][/B]','https://raw.githubusercontent.com/JarvisStream/Add-on/master/Home%20Animes%20%26%20Desenhos.xml',201,'https://i.imgur.com/uvxhzh5.jpg',FANART,'','','','')
-            addDir('[COLOR yellow][B]DOCUMENTARIOS[/COLOR][/B]','https://raw.githubusercontent.com/JarvisStream/Add-on/master/Document%C3%A1rios.m3u',201,'https://i.imgur.com/uhttdIw.jpg',FANART,'','','','')
-            addDir('[COLOR yellow][B]FILMES[/COLOR][/B]','',201,'https://i.imgur.com/p1zgcer.jpg',FANART,'','','','')
+            #addDir('[COLOR yellow][B]CONTEUDO ADULTO[/COLOR][/B]','',200,'https://i.imgur.com/VPXwj20.jpg',FANART,'','','','')
+            #addDir('[COLOR yellow][B]ANIMES & DESENHOS[/COLOR][/B]','https://raw.githubusercontent.com/JarvisStream/Add-on/master/Home%20Animes%20%26%20Desenhos.xml',201,'https://i.imgur.com/uvxhzh5.jpg',FANART,'','','','')
+            #addDir('[COLOR yellow][B]DOCUMENTARIOS[/COLOR][/B]','https://raw.githubusercontent.com/JarvisStream/Add-on/master/Document%C3%A1rios.m3u',201,'https://i.imgur.com/uhttdIw.jpg',FANART,'','','','')
+            addDir('[COLOR yellow][B]LISTAS IPTV[/COLOR][/B]','https://raw.githubusercontent.com/IptvSLimites/List/master/MvInfo_Canais.m3u',201,'https://i.imgur.com/p1zgcer.jpg',FANART,'','','','')
 			#addDir('[COLOR yellow][B]RADIOS ONLINE[/COLOR][/B]','LINKS AQUI',201,'https://i.imgur.com/Oxx8Sxs.jpg',FANART,'','','','')
             #addDir('[COLOR yellow][B]SERIADOS[/COLOR][/B]','LINKS AQUI',201,'https://i.imgur.com/OXlSWGV.jpg',FANART,'','','','')
             #addDir('[COLOR yellow][B]SHOWS[/COLOR][/B]','LINKS AQUI',201,'https://i.imgur.com/epibdLE.jpg',FANART,'','','','')
