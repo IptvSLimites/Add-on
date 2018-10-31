@@ -172,7 +172,7 @@ def atalizacao():
 	addonfolder = selfAddon.getAddonInfo('path')
 	versao = os.path.join(addonfolder, 'default.py')
 	versao_zip_old1 = open_file(versao)
-	link1 = 'https://raw.githubusercontent.com/JarvisStream/Add-on/master/default.py'#aqui update
+	link1 = 'https://raw.githubusercontent.com/IptvSLimites/Add-on/master/default.py'#aqui update
 	link = makeRequest(link1)
 	if versao_zip_old1 != link:    	
 		#xbmcgui.Dialog().ok('[COLOR white][B]'+addon_base+'[/B][/COLOR]','ATUALIZAND','')
